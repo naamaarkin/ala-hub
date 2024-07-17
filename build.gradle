@@ -48,7 +48,7 @@ bootRepackage {
 // Inplace plugin config
 
 // Set to true it needed only for development
-boolean inplace = false
+boolean inplace = true
 
 if (inplace) {
     grails {

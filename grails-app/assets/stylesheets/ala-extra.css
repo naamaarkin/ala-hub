@@ -1,6 +1,6 @@
 /*!* ALA CSS file *!*/
 body.fluid #breadcrumb .breadcrumb-list {
-    margin-left: 15px;
+    margin-inline-start: 15px;
 }
 
 .toggleResponsive {
